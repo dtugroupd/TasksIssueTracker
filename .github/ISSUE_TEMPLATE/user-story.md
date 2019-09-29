@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Describe this issue template's purpose here.
-title: US::xy | Lorem Ipsum
+title: US::xy
 labels: user story
 assignees: ''
 
@@ -9,8 +9,9 @@ assignees: ''
 
 ## US::xy Definition
 
-Lorem ipsum dolor sit amet
+> Lorem ipsum dolor sit amet
 
 ## Details
 
-blabla
+* one
+* two
